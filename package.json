@@ -55,7 +55,7 @@
     "sqlite3": "^6.0.1"
   },
   "devDependencies": {
-    "@eslint/js": "^9.0.0",
+    "@eslint/js": "^10.0.1",
     "eslint": "^10.0.2",
     "node-mocks-http": "^1.16.2",
     "prettier": "^3.5.3",
